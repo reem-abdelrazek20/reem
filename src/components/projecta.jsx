@@ -37,7 +37,14 @@ export default function Project() {
           backgroundImage="/img/Mortgage-Calculator.jpg"
           link="https://mortgage-repayment-calculator-pi-one.vercel.app/"
         />
+         <Card
+          title="Platinum Global Motors"
+          copy="صفحة هبوط  ."
+          backgroundImage="/img/Mortgage-Calculator.jpg"
+          link="https://car-zeta-three.vercel.app/"
+        />
       </div>
     </section>
   );
 }
+
