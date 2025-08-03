@@ -40,13 +40,14 @@ export default function Project() {
          <Card
           title="Platinum Global Motors"
           copy="صفحة هبوط  ."
-          backgroundImage="/img/اimge1.png"
+          backgroundImage="/img/اimge1.jpg"
           link="https://car-zeta-three.vercel.app/"
         />
       </div>
     </section>
   );
 }
+
 
 
 
