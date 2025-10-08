@@ -49,7 +49,7 @@ export default function Project() {
         />
             <Card
           title="تحدي العلوم"
-          backgroundImage="img/تحدي العلوم.png"
+          backgroundImage="/img/تحدي العلوم.jpg"
           linkgit="https://github.com/reem-abdelrazek20/scince"
           link="https://scince-phi.vercel.app/"
            copy="HTML, CSS, JavaScript، لعبة أسئلة علمية تفاعلية مبنية باستخدام ة."
