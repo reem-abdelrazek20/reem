@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import "../style/card.css";
 
-export default function Card({ title, copy, link, backgroundImage }) {
+export default function Card({ title, copy, link, backgroundImage,linkgit }) {
     const [isActive, setIsActive] = useState(false);
 
   const toggleActive = () => {
@@ -23,7 +23,10 @@ export default function Card({ title, copy, link, backgroundImage }) {
         <h2 className="title">{title}</h2>
         <p className="copy">{copy}</p>
         <a className="btn" href={link}>
-          معرفة المزيد
+          زياردة الموفع
+        </a>
+          <a className="btn-git" href={linkgit}>
+          عرض الكود
         </a>
       </div>
     </div>

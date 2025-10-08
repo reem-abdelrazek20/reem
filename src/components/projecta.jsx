@@ -11,13 +11,15 @@ export default function Project() {
           title="AgeNow App"
           copy="تطبيق بسيط لحساب العمر  باستخدام React و useState."
           backgroundImage="/img/age.jpg"
-          link="https://github.com/reem-abdelrazek20/your-age"
+          linkgit="https://github.com/reem-abdelrazek20/your-age"
+          link=""
         />
         <Card
           title="Shorter Links App"
           copy="تطبيق بسيط لتقصير الروابط باستخدام React و useState."
           backgroundImage="/img/link.jpeg"
           link="link-shortener-black-kappa.vercel.app"
+          linkgit="https://github.com/reem-abdelrazek20/Link-Shortener-"
         />
         <Card
           title="web page"
@@ -29,7 +31,8 @@ export default function Project() {
           title="mogo"
           copy="تطبيق بسيط متجر الكتروني وهمي  باستخدام React و useState."
           backgroundImage="/img/mogo.jpg"
-          link="https://github.com/reem-abdelrazek20/mogo"
+          linkgit="https://github.com/reem-abdelrazek20/mogo"
+          link=""
         />
         <Card
           title="Mortgage-Calculator App"
@@ -42,6 +45,14 @@ export default function Project() {
           copy="صفحة هبوط  ."
           backgroundImage="/img/imge1.jpg"
           link="https://car-zeta-three.vercel.app/"
+          linkgit="https://github.com/reem-abdelrazek20/car"
+        />
+            <Card
+          title="تحدي العلوم"
+          copy="مشروع تفاعلي بسيط مبني بـ HTML و CSS و JavaScript، يهدف إلى اختبار معلومات المستخدمين بأسلوب ممتع وسهل الاستخدام. يُحمّل الأسئلة من ملف JSON، ويُعرض للمستخدم سؤالًا تلو الآخر مع نظام تصحيح فوري، ويُحسب مجموع النقاط في النهاية.."
+          backgroundImage="/img/تحدي العلوم.png"
+          linkgit="https://github.com/reem-abdelrazek20/scince"
+          link="https://scince-phi.vercel.app/"
         />
       </div>
     </section>
