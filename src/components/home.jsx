@@ -31,7 +31,7 @@ export default function Home() {
         </a>
       </div>
 
-      <a href="/cv.pdf" download>
+      <a href="/Reem Abdelrazek-CV.pdf" download>
         <button className="download-btn">Download CV</button>
       </a>
     </div>
