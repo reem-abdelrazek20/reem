@@ -1,7 +1,7 @@
 import "../style/myskils.css";
 export default function MySkills() {
   return (
-    <section className="skills-section m-10" id="Skills"> 
+    <section className="skills-section " id="Skills"> 
     <h2 className="skills-title">My Skills</h2>
   
     <div className="skills-wrapper">

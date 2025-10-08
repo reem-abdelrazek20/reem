@@ -1,7 +1,7 @@
 import "../style/about.css";
 export default function About() {
   return (
-    <section className="about">
+    <section className="about" id="about">
       <div className="about-content">
         <h2>Hi, I'm Reem Abdelrazek, a Front-End Developer and UI/UX Designe</h2>
         <p>
@@ -9,7 +9,7 @@ export default function About() {
 I’m passionate about creating clean, accessible designs and continuously improving my skills to deliver the best user experience possible.
         </p>
 
-        <div className="about-info" id="about">
+        <div className="about-info" >
           <div>
             <h3>Experience</h3>
             <p>+1 Year</p>

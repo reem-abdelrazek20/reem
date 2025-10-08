@@ -12,12 +12,12 @@
   color: #FFE28A;
 }
 
-/* الحاوية الجانبية */
+
 .skills-wrapper {
   display: flex;
   gap: 3rem;
   align-items: flex-start;
-  flex-wrap: wrap; /* مهم علشان الموبايل */
+  flex-wrap: wrap; 
   justify-content: center;
   width: 100%;
 }
