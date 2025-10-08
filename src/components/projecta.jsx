@@ -49,10 +49,10 @@ export default function Project() {
         />
             <Card
           title="تحدي العلوم"
-          copy="مشروع تفاعلي بسيط مبني بـ HTML و CSS و JavaScript، يهدف إلى اختبار معلومات المستخدمين بأسلوب ممتع وسهل الاستخدام. يُحمّل الأسئلة من ملف JSON، ويُعرض للمستخدم سؤالًا تلو الآخر مع نظام تصحيح فوري، ويُحسب مجموع النقاط في النهاية.."
-          backgroundImage="/img/تحدي العلوم.png"
+          backgroundImage="img/تحدي العلوم.png"
           linkgit="https://github.com/reem-abdelrazek20/scince"
           link="https://scince-phi.vercel.app/"
+           copy="HTML, CSS, JavaScript، لعبة أسئلة علمية تفاعلية مبنية باستخدام ة."
         />
       </div>
     </section>
