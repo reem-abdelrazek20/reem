@@ -1,7 +1,7 @@
 import "../style/myskils.css";
 export default function MySkills() {
   return (
-    <section className="skills-section">
+    <section className="skills-section m-10" id="Skills"> 
     <h2 className="skills-title">My Skills</h2>
   
     <div className="skills-wrapper">
@@ -40,6 +40,11 @@ export default function MySkills() {
             <p>Tailwind CSS</p>
             <input type="range" value="85" max="100" disabled style={{ "--value": "80%" }} />
           </div>
+           <div className="skill-card">
+      <i className="fa-brands fa-figma" style={{ color: "#F24E1E" }}></i>
+      <p>Figma</p>
+      <input type="range" value="85" max="100" disabled style={{ "--value": "85%" }} />
+    </div>
         </div>
       </div>
   

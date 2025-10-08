@@ -24,20 +24,20 @@ export default function Contact() {
 
     emailjs
       .sendForm(
-        "service_he3d75c", // ✅ Service ID
-        "template_slahkwh", // ✅ Template ID
+        "service_he3d75c", //  Service ID
+        "template_slahkwh", //  Template ID
         formRef.current,
-        "owkq6S9XvntM4iELN" // ✅ Public Key
+        "owkq6S9XvntM4iELN" //  Public Key
       )
       .then(
         (result) => {
-          console.log("✅ تم الإرسال:", result.text);
+          console.log(" تم الإرسال:", result.text);
 
           setFormData({ name: "", email: "", message: "" });
         },
         (error) => {
-          console.log("❌ حصل خطأ:", error.text);
-          alert("❌ حدث خطأ أثناء الإرسال");
+          console.log(" حصل خطأ:", error.text);
+          alert(" حدث خطأ أثناء الإرسال");
         }
       );
   };

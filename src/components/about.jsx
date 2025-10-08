@@ -3,11 +3,10 @@ export default function About() {
   return (
     <section className="about">
       <div className="about-content">
-        <h2>Hi, I'm Reem Abdelrazek, based in Egypt</h2>
+        <h2>Hi, I'm Reem Abdelrazek, a Front-End Developer and UI/UX Designe</h2>
         <p>
-          I'm a front-end developer with growing experience in building
-          responsive websites, creating clean user interfaces, and using modern
-          web technologies like HTML, CSS, JavaScript, and React.
+         I specialize in building responsive and user-friendly websites using modern technologies such as HTML, CSS, JavaScript, and React, in addition to designing user interfaces and experiences using Figma.
+I’m passionate about creating clean, accessible designs and continuously improving my skills to deliver the best user experience possible.
         </p>
 
         <div className="about-info" id="about">
