@@ -37,13 +37,14 @@ export default function Project() {
         <Card
           title="Mortgage-Calculator App"
           copy="تطبيق لحساب الفائدة ."
-          backgroundImage="/img/Mortgage-Calculator.jpg"
+          backgroundImage="/img/card1.jpg"
           link="https://mortgage-repayment-calculator-pi-one.vercel.app/"
+          linkgit="https://github.com/reem-abdelrazek20/Mortgage--repayment-calculator"
         />
          <Card
           title="Platinum Global Motors"
           copy="صفحة هبوط  ."
-          backgroundImage="/img/imge1.jpg"
+          backgroundImage="/img/card2.jpg"
           link="https://car-zeta-three.vercel.app/"
           linkgit="https://github.com/reem-abdelrazek20/car"
         />
