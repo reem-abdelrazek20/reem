@@ -49,6 +49,14 @@ export default function Project() {
           link="https://scince-phi.vercel.app/"
            copy="HTML, CSS, JavaScript، لعبة أسئلة علمية تفاعلية مبنية باستخدام ة."
         />
+            <Card
+          title="TO DO"
+          backgroundImage="/img/card3.jpg"
+          linkgit="https://github.com/reem-abdelrazek20/to-do"
+          link="https://to-do-kappa-ochre.vercel.app/"
+           copy="قائمة مهام تفاعلية   لإضافة وحذف وتعديل المهام
+           HTML وCSS وJavaScript"
+        />
       </div>
     </section>
   );
