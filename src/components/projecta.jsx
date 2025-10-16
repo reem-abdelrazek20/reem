@@ -27,13 +27,7 @@ export default function Project() {
           backgroundImage="/img/web.jpg"
           link="https://web-bage.vercel.app/"
         />
-        <Card
-          title="mogo"
-          copy="تطبيق بسيط متجر الكتروني وهمي  باستخدام React و useState."
-          backgroundImage="/img/mogo.jpg"
-          linkgit="https://github.com/reem-abdelrazek20/mogo"
-          link=""
-        />
+   
         <Card
           title="Mortgage-Calculator App"
           copy="تطبيق لحساب الفائدة ."
